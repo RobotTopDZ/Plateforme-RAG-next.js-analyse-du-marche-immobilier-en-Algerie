@@ -166,7 +166,6 @@ Le projet a débuté par une phase cruciale de collecte de données immobilière
 - **Web Scraping Initial** : Développement de scripts Python pour extraire les données depuis diverses plateformes immobilières algériennes
 - **Défis Techniques Rencontrés** :
   - Gestion des différents formats de données entre plateformes
-  - Contournement des mesures anti-scraping
   - Normalisation des informations géographiques (wilayas, communes)
   - Traitement des prix en différentes devises (DZD, EUR)
 
